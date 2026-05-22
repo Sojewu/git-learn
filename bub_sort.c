@@ -1,6 +1,6 @@
 #include "sort.h"
 
-void sort(int *arr, int len)
+void bub_sort(int *arr, int len)
 {
     int i, j, temp;
     for (i = 0; i < len - 1; i++)
