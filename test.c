@@ -3,6 +3,7 @@
 
 void test()
 {
+    printf("hello world\n");
     int a;
     printf("test\n");
     scanf("%d", &a);
@@ -11,10 +12,3 @@ void test()
 
 
 
-int main()
-{
-    printf("hello world\n");
-    test();
-
-    return 0;
-}
