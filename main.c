@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include "test.h"
+#include "sort.h"
 
 int main()
 {
