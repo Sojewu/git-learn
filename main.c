@@ -16,7 +16,7 @@ int main()
 //    printf("hello world\n");
 //    test();
     print_arr(arr,10);
-    selec_sort(arr,10);
+    bub_sort(arr,10);
     print_arr(arr,10);
     return 0;
 }
